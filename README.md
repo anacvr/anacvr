@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align='center'> ✨Hey, I'm Ana!✨ </h1>
+
+### Here's a little about me:
+* 🎓 I'm taking my bachelor degree in Informatics and Computing Engineering
+* 🔭 I’m currently working on group projects for university (such as developing a social network)
+* 🌱 I’m currently learning JavaScript, Haskell, UX and UI Design and Cybersecurity
+* 😄 Pronouns: she/her
 
 <!--
 **anacvr/anacvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
