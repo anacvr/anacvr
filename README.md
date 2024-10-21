@@ -1,9 +1,10 @@
 <h2 align='center'> ✨Hey, I'm Ana!✨ </h1>
 
 ### Here's a little about me:
-* 🎓 I'm taking my bachelor degree in Informatics and Computing Engineering
-* 🌱 I’m currently learning about Artificial Intelligence, Compilers and much more
-* 🎮 I'm a Board Member at Nucleus of Computer Graphics and Multimedia ([NCGM](https://ncgm.fe.up.pt/))
+* 🎮 I'm the President of the Nucleus of Computer Graphics and Multimedia ([NCGM](https://ncgm.fe.up.pt/)) at FEUP.
+* 🎓 I'm taking my master's degree in Multimedia.
+* 💻 I have a bachelor in Informatics and Computing Engineering.
+* 🌱 I’m currently learning about Digital Games, Computer Vision, and UI/UX.
 
 <!--
 **anacvr/anacvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
